@@ -4,7 +4,8 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/anburani003/guvi-project-.git'
+                // Use 'checkout scm' to check out source code based on SCM configuration
+                checkout scm
             }
         }
 
