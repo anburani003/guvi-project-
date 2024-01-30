@@ -72,7 +72,7 @@ pipeline {
 }
 Replace yourusername/yourwebapp with your Docker Hub username and the desired name for your web application image.
 
-**Final Screenshot of Jenkins Pipeline**
+Final Screenshot of Jenkins Pipeline
 
-**Docker Image Link**
-Docker Image on Docker Hub
+Docker Image Link
+https://hub.docker.com/repository/docker/anbuvanitha/guvi/tags?page=1&ordering=last_updated
