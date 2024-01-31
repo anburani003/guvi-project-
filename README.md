@@ -50,5 +50,5 @@ The task involves system provisioning, Jenkins pipeline creation, Docker image c
 
 2. Added the Docker image link: (https://hub.docker.com/repository/docker/anbuvanitha/guvi/tags?page=1&ordering=last_updated)
    
-3. Included all  final screenshot of the Jenkins pipeline & others link:( hvhbh )
+3. Included all  final screenshot of the Jenkins pipeline & others link:(https://docs.google.com/document/d/1SroXtbgtJcfqUvkpZO8OKDMh7twqXoEj/edit?usp=sharing&ouid=106722845370752561683&rtpof=true&sd=true )
    
